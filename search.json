@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site ## Python Example\n\nname = \"Dhayasivalaakshan Shanthakkumar\"\nprogram = \"Applied Business Analytics\"\n\nprint(f\"{name} is studying {program}.\")\n\nDhayasivalaakshan Shanthakkumar is studying Applied Business Analytics."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "Hello, World!\nWelcome to my Quarto website."
+    "text": "Welcome to my Quarto website.\n\n\n\nnumbers = [2, 2, 3, 70, 50000]\naverage = sum(numbers) / len(numbers)\naverage\n\n10015.4"
+  },
+  {
+    "objectID": "index.html#python-example",
+    "href": "index.html#python-example",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "numbers = [2, 2, 3, 70, 50000]\naverage = sum(numbers) / len(numbers)\naverage\n\n10015.4"
   }
 ]

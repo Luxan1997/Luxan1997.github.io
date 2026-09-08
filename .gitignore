@@ -220,3 +220,8 @@ __marimo__/
 
 /.quarto/
 **/*.quarto_ipynb
+.env
+.Rhistory
+.venv/
+.quarto/
+_site/

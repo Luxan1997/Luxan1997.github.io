@@ -11,3 +11,11 @@ format:
 # Hello, World!
 
 Welcome to my Quarto website.
+
+## Python Example
+
+```{python}
+numbers = [2, 2, 3, 70, 50000]
+average = sum(numbers) / len(numbers)
+average
+```

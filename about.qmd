@@ -3,3 +3,11 @@ title: "About"
 ---
 
 About this site
+## Python Example
+
+```{python}
+name = "Dhayasivalaakshan Shanthakkumar"
+program = "Applied Business Analytics"
+
+print(f"{name} is studying {program}.")
+```
